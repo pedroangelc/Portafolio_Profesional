@@ -23,7 +23,7 @@ Este portafolio reúne casos prácticos orientados a análisis, calidad de datos
 *(Pendiente — se añadirá carpeta con ejemplos y consultas r*
 
 ## Contacto
-Pedro A Campos
-pedroangelc@msn.com
-linkedin.com/in/pedroangelc
+Pedro A Campos | 
+pedroangelc@msn.com |
+www.linkedin.com/in/pedroangelc/
 
