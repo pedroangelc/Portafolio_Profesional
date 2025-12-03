@@ -19,13 +19,13 @@ Mostrar la ceratividad para la visualización de los datos y la funcionalidad de
 - Reporte / Dashboard: Visalización de rentabilidad por área geográfica (estado, región), gerencia, ejecutivo, centro de proceso, cliente; utilidad anual, calificación de centro proceso según su rentabilidad.
 
 ## Screenshots
-- [Altas y nueva venta 01](assets/assets/screenshots/AltasNuevaVentaAgosto01.jpg)
-- [Altas y nueva venta 02](assets/screenshots/AltasNuevaVentaAgosto02.jpg)
-- [Altas y nueva venta 03](assets/screenshots/AltasNuevaVentaAgosto03.jpg)
-- [Rentabilidad](assets/screenshots/Rentabilidad.jpg)
-- [Venta General 2022](assets/screenshots/VentaGeneral2022Agosto.jpg)
-- [Venta general Región - Gerencia](assets/screenshots/VentaRegion-Gerencia.jpg)
-- [Venta general Región - Gerencia - Ejecutivo](assets/screenshots/VentaRegion-Gerencia-Ejecutivo.jpg)
+- [Rentabilidad](proyects/screenshots/Rentabilidad.jpg)
+- [Altas y Nueva Venta Agosto 01](proyects/screenshots/AltasNuevaVentaAgosto01.jpg)
+- [Altas y Nueva Venta Agosto 02](proyects/screenshots/AltasNuevaVentaAgosto02.jpg)
+- [Altas y Nueva Venta Agosto 03](proyects/screenshots/AltasNuevaVentaAgosto03.jpg)
+- [Venta General 2022 Agosto](proyects/screenshots/VentaGeneral2022Agosto.jpg)
+- [Venta general Region/Gerencia](proyects/screenshots/VentaRegion-Gerencia.jpg)
+- [Venta general Region/Gerencia/Ejecutivo](proyects/screenshots/VentaRegion-Gerencia-Ejecutivo.jpg)  
 
 ## Abrir con:
 - Excel 365 o compatible
