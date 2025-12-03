@@ -14,9 +14,9 @@ Mostrar la ceratividad para la visualización de los datos y la funcionalidad de
 - Tablas
 
 ## Contenido del archivo
-- Hoja ETL: descarga y tras}nsformació de información de CRM y diversos archivos de varias áreas
-- Hoja Modelo: Estructuracón mediante tablas, tablas dinámicas y fómulas
-- Hoja Reporte / Dashboard: Visalización de rentabilidad por área geográfica (estado, región), gerencia, ejecutivo, centro de proceso, cliente; utilidad anual, calificación de centro proceso según su rentabilidad.
+- ETL: descarga y tras}nsformació de información de CRM y diversos archivos de varias áreas
+- Modelo: Estructuracón mediante tablas, tablas dinámicas y fómulas
+- Reporte / Dashboard: Visalización de rentabilidad por área geográfica (estado, región), gerencia, ejecutivo, centro de proceso, cliente; utilidad anual, calificación de centro proceso según su rentabilidad.
 
 ## Screenshots
 /assets/screenshots/rentabilidad
