@@ -1,6 +1,6 @@
 # Screenshots
 ## Excel  
-[Rentabilidad](Rentabilidad.jpg)  
+[Rentabilidad](/Rentabilidad.jpg)  
 [Altas y Nueva Venta Agosto 01](/AltasNuevaVentaAgosto01.jpg)  
 [Altas y Nueva Venta Agosto 02](/AltasNuevaVentaAgosto02.jpg)  
 [Altas y Nueva Venta Agosto 03](/AltasNuevaVentaAgosto03.jpg)  
