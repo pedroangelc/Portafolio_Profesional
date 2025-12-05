@@ -13,10 +13,15 @@ Mostrar la ceratividad para la visualización de los datos y la funcionalidad de
 - Segmentación
 - Tablas
 
-## Contenido del archivo
+## Contenido
 - ETL: descarga y tras}nsformació de información de CRM y diversos archivos de varias áreas
 - Modelo: Estructuracón mediante tablas, tablas dinámicas y fómulas
 - Reporte / Dashboard: Visalización de rentabilidad por área geográfica (estado, región), gerencia, ejecutivo, centro de proceso, cliente; utilidad anual, calificación de centro proceso según su rentabilidad.
+
+## Archivos
+- Rentabilidad [Descripción](../Excel/rentabilidad.md) - [Archivo](../Excel/Rentabilidad.xlsx)
+- Venta general [Descripción](../Excel/VentaGeneral.md) - [Archivo](../Excel/VentaGeneral2022agosto.xlsx)
+- Altas y nueva venta  [Descripción](../Excel/NuevaVenta.md) - [Archivo](../Excel/AltasNuevaNentaAgosto.xlsx)
 
 ## Screenshots
 - [Rentabilidad](../screenshots/Rentabilidad.jpg)
@@ -26,11 +31,6 @@ Mostrar la ceratividad para la visualización de los datos y la funcionalidad de
 - [Venta General 2022 Agosto](../screenshots/VentaGeneral2022Agosto.jpg)
 - [Venta general Region/Gerencia](../screenshots/VentaRegion-Gerencia.jpg)
 - [Venta general Region/Gerencia/Ejecutivo](../screenshots/VentaRegion-Gerencia-Ejecutivo.jpg)
-
-## Archivos
-- Rentabilidad [Descripción](../Excel/rentabilidad.md) - [Archivo](../Excel/Rentabilidad.xlsx)
-- Venta general [Descripción](../Excel/VentaGeneral.md) - [Archivo](../Excel/VentaGeneral2022agosto.xlsx)
-- Altas y nueva venta  [Descripción](../Excel/NuevaVenta.md) - [Archivo](../Excel/AltasNuevaNentaAgosto.xlsx)
 
 ## Abrir con:
 - Excel 365 o compatible
