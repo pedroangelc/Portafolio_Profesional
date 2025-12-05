@@ -7,4 +7,4 @@
 - Control de versión: Uso básico de GitHub.
 - Python y R (por iniciar formación)
 
-## [Regresar al inicio](...index.md)
+## [Regresar al inicio](../index.md)
