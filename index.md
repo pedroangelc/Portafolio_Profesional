@@ -1,6 +1,5 @@
 <div style="top: 10px; right: 10px;">
   <img src="MyPhoto.png" style="width:220px; height:auto; border-radius:8px;">
-  <h1>Portafolio Profesional de Pedro Campos</h1>
 </div>
 
 
