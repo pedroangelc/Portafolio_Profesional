@@ -1,8 +1,14 @@
 # Venta general 2022 – Dashboard
 
 ## Descripción
-Tablero interactivo que muestra una gráfica comparativa del total acumulado de la venta general de enero a agosto contra el mismo periodo del año anterior.
-Botones interactivos que segmentan los datos por cliente, por el año anterior en el mismo mes y con el mes anterior inmediato. Cantidades en la gráfica y porcentaje, e indicador en la tabla lateral.
+Reporte de dos hojas con tableros interactivos que muestra una gráfica comparativa del total acumulado de la venta general de enero a agosto contra el año anterior.  
+Cantidades en la gráfica y porcentaje e indicador en la tabla lateral.  
+Botones interactivos que segmentan los datos por
+- Estado
+- Región
+- Gerencia
+- Centro de proceso
+- Ejecutivo
 
 ## Procesos aplicados
 - Extracción Y limpieza de datos
