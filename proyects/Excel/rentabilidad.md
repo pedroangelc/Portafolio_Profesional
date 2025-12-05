@@ -23,6 +23,7 @@ Dar visibilidad de los indicadores financieros importantes para toma de desicion
   </a>
 </div>
 
+[Abrir archivo online](https://1drv.ms/x/c/95cfc766c099b238/ESvdaLWPiH5GgnlK8GA2rd4BFDgsBBwVNkBjfK8WsuVIPw?e=pJWe6B)  
 [Descargar archivo](Rentabilidad.xlsx)
 
 ## [← Regresar a Proyectos/Excel](../Excel/index.md)
