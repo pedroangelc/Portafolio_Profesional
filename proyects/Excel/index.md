@@ -31,4 +31,6 @@ Mostrar la ceratividad para la visualización de los datos y la funcionalidad de
 - Excel 365 o compatible
 - No requiere rutas locales
 
+## [← Regresar al inicio](../index.md)
+
 
